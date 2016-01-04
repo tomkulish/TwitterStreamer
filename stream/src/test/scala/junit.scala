@@ -1,5 +1,3 @@
-package com.tomkulish
-
 import org.junit._
 import Assert._
 
