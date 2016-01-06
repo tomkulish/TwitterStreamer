@@ -1,5 +1,4 @@
 import org.junit.runner.RunWith
-//import org.scalatest.junit.JUnitRunner
 import org.specs2.mutable._
 import org.specs2.runner._
   
